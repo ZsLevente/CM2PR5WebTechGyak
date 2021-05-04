@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Index</title>
+ </head>
+ <body background="kepek/hatter4.jpg">
+ <table align="center"
+        style="table-layout:fixed; font-family:tahoma; font-size:15pt; color:white"
+        border="0">
+        <tr style="height:100px">
+            <td colspan="5" style="width:1000px; text-align:center">
+                <a href="kezdolap0.html" target="keret"><img src="kepek/egyetem.jpg" height="160" border="2" ></a>
+                <br>
+            </td>
+        </tr>
+        <tr style="height:35px; font-weight:bold">
+            <td style="text-align:center">
+                <a href="elektronika.html" target="keret">
+                    <font style="color:red; text-decoration:none">Elektronika</font>
+                </a>
+            </td>
+            <td style="text-align:center">
+                <a href="automatika2.html" target="keret">
+                    <font style="color:red; text-decoration:none">Automatika 2</font>
+                </a>
+            </td>
+            <td style="text-align:center">
+                <a href="villamos energetika.html" target="keret">
+                    <font style="color:red; text-decoration:none">Villamos Energetika és biztonságtechnika</font>
+                </a>
+            </td>
+        </tr>
+        <tr style="height:230px">
+            <td colspan="3" style="text-align:center">
+                <iframe name="keret" src="kezdolap0.html" width="700" height="400"  frameborder="0">
+                   
+                </iframe>
+            </td>
+        </tr>
+        <tr style="height:40px">
+            <td colspan="3" color="black" style="width:640px; text-align:right">
+                 <a href="kezdolap0.html"> <strong><font color="black">Vissza</font></strong>  </a>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
+  
+ 
